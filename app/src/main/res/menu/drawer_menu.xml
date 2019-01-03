@@ -5,15 +5,15 @@
     <group android:checkableBehavior="single">
     <item android:id="@+id/recent_release"
         android:title="@string/New"
-        android:icon="@drawable/moleskine_50"/>
+        android:icon="@drawable/ic_new_releases_black_24dp"/>
 
     <item android:id="@+id/favorites"
         android:title="@string/Favorites"
-        android:icon="@drawable/favorite_folder_50"/>
+        android:icon="@drawable/ic_favorite_border_black_24dp"/>
 
     <item android:id="@+id/settings"
         android:title="@string/Update_settings"
-        android:icon="@drawable/add_folder_50"/>
+        android:icon="@drawable/ic_settings_black_24dp"/>
     </group>
 
 

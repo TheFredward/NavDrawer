@@ -3,4 +3,6 @@
     <string name="New"> Recent releases</string>
     <string name="Favorites">Favorites</string>
     <string name="Update_settings">Update Suggestions</string>
+    <string name="openNav">Open Navigation Drawer</string>
+    <string name="closeNav">Close navigation Drawer</string>
 </resources>
